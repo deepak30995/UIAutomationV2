@@ -1,4 +1,4 @@
-# SeleniumAutomationFrameworkV2
+# Selenium with Java UI automation framework
 Selenium framework (Java, TestNG) for web automation. Extent Reports for detailed test reporting. Enhance testing efficiency and result analysis.
 - Maven used as build automation tool which is also for managing the project.
 - Java as a programming language.
